@@ -1,4 +1,4 @@
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
+![MasterHead](https://github.com/ieeeitssb/ieeeitssb/blob/main/BANNER_WEB.gif)
 <h1 align="center">Hi 👋, This is Official GitHub Account of IEEE ITS SB</h1>
 <h3 align="center">We are Student branch in ITS</h3>
 <hr/>
