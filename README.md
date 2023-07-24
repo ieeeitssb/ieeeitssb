@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fadhly-ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhly-ramadhan" height="30" width="40" /></a>
-<a href="https://instagram.com/fadhlyrmdhnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadhlyrmdhnz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/ieee-its-sb/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ieee" height="30" width="40" /></a>
+<a href="https://instagram.com/ieeeitssb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ieee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
