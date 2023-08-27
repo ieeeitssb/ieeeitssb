@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1P1i1LKsHDEgCwI5KSa4baI_vnDZ8uqvE/view?usp=sharing)
+![MasterHead](https://github.com/ieeeitssb/ieeeitssb/blob/main/BANNER_WEB.gif)
 <h1 align="center">Hi 👋, This is Official GitHub Account of IEEE ITS SB</h1>
 <h3 align="center">We are Student branch in ITS</h3>
 <hr/>
